@@ -1,6 +1,6 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No. 6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 19.11.2025
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -44,11 +44,13 @@
 ## Heat Treatment of 3D printed part
 ![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
-
 ## Output:
+<img width="1915" height="1028" alt="image" src="https://github.com/user-attachments/assets/74a8d2ca-25cc-46a4-9190-b0a45194a0ee" />
+<img width="1911" height="1023" alt="image" src="https://github.com/user-attachments/assets/48f0e396-66a6-4bb6-805c-d9e7ed02696c" />
+<img width="1907" height="1025" alt="image" src="https://github.com/user-attachments/assets/f687e986-649c-4129-b178-d9564b13b5bd" />
 
-### Name:
-### Register Number:
+### Name: Mahalakshmi B
+### Register Number: 212224040182
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
